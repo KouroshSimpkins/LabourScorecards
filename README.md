@@ -1,0 +1,4 @@
+- Flask frontend application
+- Filtering in Python
+- SQLite database
+- Static dataset
